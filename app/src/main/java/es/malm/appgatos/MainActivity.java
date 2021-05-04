@@ -23,5 +23,6 @@ public class MainActivity extends AppCompatActivity
         txtPass = findViewById(R.id.txtClave);
         saveSwitch = findViewById(R.id.switchGuardar);
         btnLogin = findViewById(R.id.btnAcceder);
+
     }
 }

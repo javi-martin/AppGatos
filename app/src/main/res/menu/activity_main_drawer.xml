@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_main"
+            android:icon="@drawable/ic_baseline_person_search_24"
+            android:title="@string/menuMain" />
+        <item
+            android:id="@+id/nav_colonias"
+            android:icon="@drawable/ic_baseline_travel_explore_24"
+            android:title="@string/menuColonias" />
+        <item
+            android:id="@+id/nav_Gatos"
+            android:icon="@drawable/ic_baseline_pets_24"
+            android:title="@string/menuGatos" />
+        <item
+            android:id="@+id/nav_Anotaciones"
+            android:icon="@drawable/ic_baseline_menu_book_24"
+            android:title="@string/menuAnotaciones" />
+        <item
+            android:id="@+id/nav_Tratamiento"
+            android:icon="@drawable/ic_baseline_medical_services_24"
+            android:title="@string/menuTratamiento" />
+
+    </group>
+</menu>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AppGatos</string>
+
+    <string name="txtTitulo">loCATion</string>
+    <string name="txtUser">Usuario</string>
+    <string name="txtPass">Contraseña</string>
+    <string name="SwitchGuardar">Guardar las credenciales</string>
+    <string name="btnAcceder">Acceder</string>
+    <string name="btnBorrar">Borrar</string>
+    <string name="btnSalir">SALIR</string>
+    <string name="imgPrinci"></string>
+    <string name="todo">TODO</string>
+    <string name="menuMain">loCATion</string>
+    <string name="menuColonias">COLONIAS</string>
+    <string name="menuGatos">GATOS</string>
+    <string name="menuAnotaciones">ANOTACIONES</string>
+    <string name="menuTratamiento">TRATAMIENTOS</string>
+    <string name="txtBtnAtras">Atras</string>
+</resources>    
